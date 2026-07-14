@@ -2,10 +2,7 @@
 
 A full-stack application workflow tracker built with **Django + Django Ninja** (backend) and **React + Vite** (frontend).
 
-## Candidate
 
-- Name: Peter Kimanga
-- Email: mbuguakimanga@gmail.com
 
 ## Workflow
 
